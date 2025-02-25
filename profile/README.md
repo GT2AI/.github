@@ -1,3 +1,4 @@
 ## Hi there 👋
 
-[home](https://gt2ai.github.io/home/)
+[Home Website](https://gt2ai.github.io/home/{:target="_blank"})
+[Join the discord]((https://discord.gg/tdZvPuTazB){:target="_blank"})
