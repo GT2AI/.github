@@ -3,7 +3,6 @@
 GT^AI is a student-led initiative at Georgia Tech focused on building AI-powered products that serve the GT community.
 
 ## Connect with us
-- [🌐 Official Website](https://gt-ai-home.vercel.app/)
 - [💬 Join our Discord](https://discord.gg/tdZvPuTazB)
 
 ## What we do
